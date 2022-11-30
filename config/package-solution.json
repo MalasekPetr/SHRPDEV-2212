@@ -3,7 +3,7 @@
   "solution": {
     "name": "lab-05-client-side-solution",
     "id": "27923943-fb25-4db9-b64e-b505cf0fc276",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
