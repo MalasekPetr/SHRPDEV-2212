@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "lab-05",
+    "libraryId": "27923943-fb25-4db9-b64e-b505cf0fc276",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "lab-05",
+    "solutionShortDescription": "lab-05 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
